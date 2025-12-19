@@ -1,0 +1,209 @@
+{
+  "pays": "Sint Eustatius",
+  "drapeau": "🇳🇱",
+  "symbole": "🌋",
+  "titre": "L'Émeraude des Caraïbes: Aventure et Histoire à Statia",
+  "budget_total": "2550€",
+  "duree": "5 jours",
+  "date_debut": "2026-02-11",
+  "date_fin": "2026-02-16",
+  "temps_vol": "Environ 10-14h depuis Lebrun, Haïti avec escales (via Port-au-Prince, San Juan et St. Maarten)",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée paisible et premières découvertes",
+      "legende": "Après un voyage transfrontalier, posez vos valises sur cette île volcanique aux charmes discrets. Le premier jour est dédié à une acclimatation douce, permettant de s'imprégner de l'atmosphère caribéenne et de la sérénité locale. Une balade le long de la côte offre un aperçu des trésors cachés de Statia.",
+      "lieu": "Oranjestad",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport F.D. Roosevelt (EUX)</strong>: Atterrissez sur la piste unique de Statia, un accueil chaleureux vous attend dans ce petit paradis caribéen.",
+        "🛏️ <strong>Installation à l'hôtel 3 étoiles</strong>: Prenez possession de votre chambre confortable, un havre de paix pour les nuits à venir, idéalement situé pour explorer l'île.",
+        "🚶‍♀️ <strong>Balade découverte le long d'Oranje Bay</strong>: Flânez sur la plage de sable noir volcanique, admirez les vestiges sous-marins visibles et laissez-vous bercer par le son des vagues."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "L'aéroport de Sint Eustatius est petit; les formalités sont rapides. Prévoyez de la monnaie locale (USD) pour les taxis."
+        },
+        {
+          "symbole": "🚕",
+          "titre": "Transport",
+          "texte": "Les taxis sont le moyen le plus simple de se déplacer depuis l'aéroport. Négociez le prix avant de monter."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Plongée dans l'histoire de la \"Roche d'Or\"",
+      "legende": "Sint Eustatius, autrefois surnommée la \"Roche d'Or\", fut un carrefour commercial majeur au XVIIIe siècle. Cette journée vous invite à remonter le temps, à travers ses forts imposants, ses ruelles pavées et ses musées qui racontent l'épopée fascinante de cette île stratégique. Découvrez les secrets de son passé glorieux et de son rôle dans l'histoire américaine.",
+      "lieu": "Oranjestad",
+      "activites": [
+        "🏰 <strong>Visite du Fort Oranje</strong>: Explorez cette forteresse historique offrant une vue imprenable sur la mer des Caraïbes et les toits d'Oranjestad, témoin de l'âge d'or de l'île.",
+        "📜 <strong>Exploration du Musée Historique de Statia</strong>: Plongez dans le passé riche de l'île, de l'époque amérindienne à son rôle crucial dans la Révolution américaine, à travers des artefacts et des récits captivants.",
+        "🚶‍♂️ <strong>Découverte de la Basse-Ville (Lower Town)</strong>: Promenez-vous parmi les ruines des entrepôts coloniaux et les vestiges sous-marins, témoins silencieux d'une activité commerciale intense."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Anecdote historique",
+          "texte": "Sint Eustatius fut la première nation à saluer le drapeau américain en 1776, un acte de reconnaissance qui lui valut la colère des Britanniques."
+        },
+        {
+          "symbole": "🗺️",
+          "titre": "Orientation",
+          "texte": "Oranjestad est divisée en une ville haute (Upper Town) et une ville basse (Lower Town), reliées par des escaliers et des routes."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "L'appel de la nature: l'ascension du Quill",
+      "legende": "Aujourd'hui, l'aventure vous mène au cœur de l'île, vers le majestueux volcan endormi, The Quill. Cette randonnée offre non seulement un défi physique mais aussi une immersion totale dans une biodiversité luxuriante. Au sommet, une récompense inoubliable vous attend: des vues panoramiques à couper le souffle sur l'île et ses environs, un véritable spectacle naturel.",
+      "lieu": "The Quill National Park",
+      "activites": [
+        "⛰️ <strong>Randonnée au volcan The Quill</strong>: Partez à l'assaut de ce volcan éteint, dont le cratère abrite une forêt tropicale luxuriante, une expérience unique pour les amoureux de la nature.",
+        "🌿 <strong>Exploration du cratère du Quill</strong>: Descendez dans le cratère pour découvrir une biodiversité incroyable, avec des plantes endémiques et une faune discrète, un véritable jardin secret.",
+        "📸 <strong>Points de vue panoramiques</strong>: Profitez des belvédères le long du sentier pour admirer des panoramas spectaculaires sur l'île, la mer et les îles voisines."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Conseils de randonnée",
+          "texte": "Portez de bonnes chaussures de marche, apportez beaucoup d'eau et de l'anti-moustique. La montée peut être exigeante."
+        },
+        {
+          "symbole": "🐒",
+          "titre": "Faune",
+          "texte": "Soyez attentifs, vous pourriez apercevoir des singes verts, des iguanes ou diverses espèces d'oiseaux dans la forêt du cratère."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🐠",
+      "titre": "Trésors sous-marins et détente côtière",
+      "legende": "Sint Eustatius est un paradis pour les plongeurs et les amateurs de snorkeling, grâce à son parc marin protégé. Cette journée est dédiée à l'exploration de ses fonds marins exceptionnels, où épaves et récifs coralliens abritent une vie marine foisonnante. L'après-midi, la détente sur une plage isolée vous permettra de savourer la tranquillité de l'île, loin de l'agitation du monde.",
+      "lieu": "Sint Eustatius National Marine Park / Plages",
+      "activites": [
+        "🐠 <strong>Plongée ou snorkeling dans le Parc Marin National</strong>: Explorez les épaves historiques et les récifs coralliens vibrants, abritant une multitude de poissons tropicaux et de tortues marines.",
+        "🏖️ <strong>Détente à Zeelandia Beach</strong>: Profitez de cette longue plage de sable noir, souvent déserte, idéale pour une promenade paisible, la baignade ou simplement se prélasser au soleil.",
+        "🌅 <strong>Coucher de soleil sur la côte ouest</strong>: Terminez la journée en admirant un magnifique coucher de soleil sur la mer des Caraïbes, un moment magique et apaisant."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🤿",
+          "titre": "Activités aquatiques",
+          "texte": "Plusieurs centres de plongée proposent des excursions pour tous les niveaux. Réservez à l'avance, surtout en haute saison."
+        },
+        {
+          "symbole": "🌊",
+          "titre": "Courants",
+          "texte": "Les courants peuvent être forts à Zeelandia Beach, soyez vigilant si vous vous baignez."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "👋",
+      "titre": "Derniers instants et départ",
+      "legende": "Avant de quitter cette île charmante, profitez de ces dernières heures pour quelques emplettes locales ou une ultime dégustation des saveurs caribéennes. C'est l'occasion de ramener un souvenir de Statia, un petit trésor qui prolongera la magie de votre voyage. Le départ se fera avec des souvenirs plein la tête et l'envie de revenir.",
+      "lieu": "Oranjestad / Aéroport",
+      "activites": [
+        "🛍️ <strong>Achats de souvenirs locaux</strong>: Parcourez les petites boutiques d'Oranjestad pour trouver des objets artisanaux, des épices ou des produits locaux à ramener chez vous.",
+        "🍽️ <strong>Dernier repas caribéen</strong>: Savourez un dernier déjeuner typique, avec des plats frais et savoureux, pour clore votre aventure gustative sur l'île.",
+        "✈️ <strong>Transfert à l'aéroport et départ</strong>: Rejoignez l'aéroport F.D. Roosevelt pour votre vol retour, emportant avec vous les couleurs et les saveurs de Sint Eustatius."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées cadeaux",
+          "texte": "Pensez aux rhums locaux, aux sauces piquantes faites maison ou aux bijoux en coquillages pour des souvenirs authentiques."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "L'aéroport est petit, mais arrivez au moins 1h30 avant votre vol pour les formalités."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "1200€/pers (vol multi-escales Lebrun-Sint Eustatius en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "150€/pers (taxis sur l'île, transferts aéroport, potentielle location de voiture 1 jour)",
+      "symbole": "🚕"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "300€/pers (5 jours, repas dans des restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "680€/pers (4 nuits en hôtel 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "220€/pers (entrées musées, randonnée Quill, excursion snorkeling/plongée)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Décembre à Juin, évitant la saison des ouragans.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Sint Eustatius est une municipalité spéciale des Pays-Bas. La monnaie est le dollar américain (USD) et les langues officielles sont le néerlandais et l'anglais.",
+      "symbole": "🇳🇱"
+    },
+    {
+      "titre": "L'île compte environ 3 200 habitants, connus sous le nom de \"Statians\". Ils sont réputés pour leur gentillesse et leur sens de l'hospitalité.",
+      "symbole": "🧑‍🤝‍🧑"
+    },
+    {
+      "titre": "Surnommée la \"Roche d'Or\" au XVIIIe siècle, l'île était un port franc prospère et un centre commercial majeur des Caraïbes.",
+      "symbole": "💰"
+    },
+    {
+      "titre": "L'île est un paradis pour la plongée, avec plus de 30 sites incluant des épaves et des récifs coralliens vierges, tous protégés par un parc marin national.",
+      "symbole": "🐠"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles de Sint Eustatius",
+      "titre": "St. Eustatius Tourism Development Foundation",
+      "url": "https://www.statiatourism.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Compagnie aérienne régionale desservant Sint Eustatius",
+      "titre": "Winair (vols depuis St. Maarten)",
+      "url": "https://www.winair.sx/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Prévisions météo pour Sint Eustatius",
+      "titre": "Météo Sint Eustatius",
+      "url": "https://www.meteoblue.com/fr/meteo/semaine/sint-eustatius_sint-eustatius_sx_3513360",
+      "symbole": "🌤️"
+    }
+  ]
+}
